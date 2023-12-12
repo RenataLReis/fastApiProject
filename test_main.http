@@ -10,10 +10,28 @@ Accept: application/json
 
 ###
 
-GET http://127.0.0.1:8000/cotacao
+GET http://127.0.0.1:8000/currency-quote/all
+Accept: application/json
+
+
+###
+
+GET http://127.0.0.1:8000/currency-quote/USD
+Accept: application/json
+
+
+###
+
+GET http://127.0.0.1:8000/currency-quote/30days/USD
+Accept: application/json
+
+
+###
+
+GET http://127.0.0.1:8000/currency-quote/30days/plot/USD
 Accept: application/json
 
 ###
 
-GET http://127.0.0.1:8000/weather-forecast/5-days
+GET http://127.0.0.1:8000/weather-forecast
 Accept: application/json

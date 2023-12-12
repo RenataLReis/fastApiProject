@@ -1,3 +1,173 @@
+GET http://127.0.0.1:8000/currency-quote/30days/plot/USD
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T175931.200.json
+
+###
+
+GET http://127.0.0.1:8000/currency-quote/30days/USD
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T175600.200.json
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T174625.500.txt
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T174619.500.txt
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast
+Accept: */*
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T174613.500.txt
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast
+Accept: */*
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T174510.500.txt
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast
+Accept: */*
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T174110.500.txt
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T174022.500.txt
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast/5-days
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T173930.500.txt
+
+###
+
+GET http://127.0.0.1:8000/currency-quote/USD
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T173634.200.json
+
+###
+
+GET http://127.0.0.1:8000/currency-quote/USD
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T173548.500.txt
+
+###
+
+GET http://127.0.0.1:8000/currency-quote/USD
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T173539.500.txt
+
+###
+
+GET http://127.0.0.1:8000/currency-quote/USD
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T172850.200.json
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast/5-days
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T171235.500.txt
+
+###
+
+GET http://127.0.0.1:8000/cotacao
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T171227.200.json
+
+###
+
+GET http://127.0.0.1:8000/cotacao
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T171215.404.json
+
+###
+
+GET http://127.0.0.1:8000/weather-forecast/5-days
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-12-12T164630.500.txt
+
+###
+
 GET http://127.0.0.1:8000/weather-forecast/5-days
 Accept: application/json
 Connection: Keep-Alive
