@@ -48,6 +48,6 @@ def quote(currency: str):
 
 @app.get("/weather-forecast")
 def weather_forecast():
-    weather = requests.get('api.openweathermap.org/data/2.5/forecast?lat=-15.78&lon=-47.93&appid=033f8ae1b29668af840cc665b4c209d1')
+    weather = requests.get('http://api.openweathermap.org/data/2.5/forecast?lat=-15.78&lon=-47.93&appid=033f8ae1b29668af840cc665b4c209d1')
     weather_dic = weather.json()
     return weather_dic
